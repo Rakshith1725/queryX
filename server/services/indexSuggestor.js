@@ -185,5 +185,5 @@ function dedup(suggestions) {
   });
 }
 
+export { suggestIndexes };
 
-module.exports = { suggestIndexes };
